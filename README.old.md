@@ -1,2 +1,0 @@
-# NewsTranslationswithReact
-Hussien &amp; Karmel
