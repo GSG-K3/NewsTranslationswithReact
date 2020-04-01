@@ -13,7 +13,6 @@ class NewsList extends Component {
   }
 
   handleClick(event) {
-    console.log(this.props.title);
     let url =
       'https://translate.yandex.net/api/v1.5/tr.json/translate' +
       '?key=trnsl.1.1.20200331T155151Z.e1ad711262d15b7a.79c7c4a75b529e046bc13216389ab46b55378075' +
