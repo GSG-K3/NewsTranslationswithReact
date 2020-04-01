@@ -11,7 +11,7 @@ function NavBar() {
             <a href="/worldnews">World News </a>
           </li>
           <li>
-            <a href="/topnews">Top News</a>
+            <a href="/">Top News</a>
           </li>
         </ul>
       </nav>
